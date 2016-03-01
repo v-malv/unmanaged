@@ -3,6 +3,12 @@
     "content": [
       {
         "files": [
+          "**/*.yml"
+        ],
+        "dest": "unmanaged"
+      },
+      {
+        "files": [
           "**/*.md"
         ],
         "exclude": [
